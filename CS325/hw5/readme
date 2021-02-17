@@ -1,0 +1,8 @@
+Instructions for running wrestlers.py
+- In the directory where wrestlers.py resides
+    --Type chmod +x wrestlers.py
+
+    --Type python wrestlers.py nameoftestfile
+
+    where "nameoftestfile" is the name (or path) of the file
+    to be used for testing.
